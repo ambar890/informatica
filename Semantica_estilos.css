@@ -1,5 +1,5 @@
 body{
-background-color:gray;
+background-color:rgb(255, 251, 251);
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
@@ -49,7 +49,7 @@ article {
      border-left: 4px solid red;
  }
  th {
-     background-color: rgb(192, 188, 188);
+     background-color: rgb(255, 253, 253);
  }
  th, td {
      border: 1px solid black;
