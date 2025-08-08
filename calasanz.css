@@ -1,0 +1,16 @@
+/*selector ID*/
+#p1{
+    color:blueviolet
+}
+/*selector de etiqueta*/
+h1 {
+    color:rgba(206, 167, 243, 0.884)
+}
+h2{
+    color:rgb(147, 117, 187)
+}
+/*selector de clase*/
+.oscuro{
+    background-color: rgb(206, 167, 243, 0.884);
+    color:white;
+}
