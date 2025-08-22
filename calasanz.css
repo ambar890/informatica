@@ -1,16 +1,43 @@
 /*selector ID*/
 #p1{
-    color:blueviolet;
+    color:rgb(104, 10, 141S);
 }
 /*selector de etiqueta*/
 h1 {
-    color:rgba(206, 167, 243, 0.884)
+    color:rgba(184, 140, 224, 0.884)
 }
 h2{
-    color:rgb(147, 117, 187)
+    color:rgb(148, 103, 207)
 }
 /*selector de clase*/
 .oscuro{
-    background-color: rgb(206, 167, 243, 0.884);
+    background-color: rgba(180, 137, 221, 0.884);
     color:white;
 }
+header {
+    background-image: url("./love.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 3rem 1rem;
+  }
+  footer {
+    background-color: #8b5e3c;
+    color: #fff8ec;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  footer a {
+    color: #fff8ec;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    margin: 0 0.5rem; 
+    font-size: 1.8rem; 
+    display: inline-block; 
+  }
+  
+  footer a:hover {
+    color: rgb(104, 10, 141);
+  }
